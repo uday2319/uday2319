@@ -1,5 +1,5 @@
 # 🖐️ Hi, I am UDAY D.K
-I’m an aspiring Machine Learning Engineer with hands-on experience building and deploying real-world ML applications. <br>I enjoy solving problems with data, learning core algorithms deeply, <br>and turning ideas into production-ready projects.
+I’m an aspiring AI & Machine Learning Engineer with hands-on experience building and deploying real-world ML applications. <br>I enjoy solving problems with data, learning core algorithms deeply, <br>and turning ideas into production-ready projects.
 
 
 ## 🌐 Socials:
