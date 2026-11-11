@@ -4,7 +4,7 @@ AI/ML enthusiast focused on Deep Learning, NLP, Generative AI, and LLMs. Interes
 
 ## 🌐 Socials:
 ![ LinkedIn ](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) www.linkedin.com/in/udaydk2319
- \n![ email ](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white) udaydk587@gmail.com
+ ![ email ](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white) udaydk587@gmail.com
 ## 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
